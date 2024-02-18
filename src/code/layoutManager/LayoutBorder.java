@@ -1,2 +1,4 @@
-package code.layoutManager;public class LayoutBorder {
+package code.layoutManager;
+
+public class LayoutBorder {
 }
